@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="254"></int>
+                  <int value="258"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_125_2.2"></unicode>
+                <unicode value="0_125_2.3"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="OIP.jpeg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmppxW2Q8/OIP.jpeg"></string>
+                  <string value="/tmp/tmpycXdlb/OIP.jpeg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="b246ce2cce45caa9947cb410e51c4b75"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="3"></int>
+           <int value="4"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -405,7 +405,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="252"></int>
+                     <int value="256"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -419,7 +419,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_126_2.2"></unicode>
+                   <unicode value="1_126_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -430,7 +430,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="IA_paiting.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmppxW2Q8/IA_paiting.jpg"></string>
+                     <string value="/tmp/tmpycXdlb/IA_paiting.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="baf7616ad1fb6b2f5a815f550b62e69e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -459,7 +459,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -567,8 +567,35 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.bing.com/images/create?FORM=IRPGEN&quot; target=&quot;_blank&quot; title=&quot;Bing images&quot; rel=&quot;noopener&quot;&gt;Bing images&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://huggingface.co/spaces/aipicasso/emi-latest-demo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/GirlPainting.png&quot; alt=&quot;Noia pintant&quot; width=&quot;150&quot; height=&quot;150&quot; style=&quot;float: right; margin: 5px;&quot; /&gt;AIPicasso&lt;/a&gt; Funciona bé amb descripcions en anglès.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;audio class=&quot;audio-for-speech&quot;&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;div class=&quot;translate-tooltip-mtz translator-hidden&quot;&gt;
+&lt;div class=&quot;header&quot;&gt;
+&lt;div class=&quot;header-controls&quot;&gt;Translator&lt;/div&gt;
+&lt;div class=&quot;header-controls&quot;&gt;&lt;span class=&quot;support&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;header-controls&quot;&gt;&lt;span class=&quot;settings&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;translated-text&quot;&gt;
+&lt;div class=&quot;words&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;sentences&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;translate-button-mtz&quot; style=&quot;top: 159.21667098999023px; left: 50.650001525878906px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bing.com/images/create?FORM=IRPGEN&quot; target=&quot;_blank&quot; title=&quot;Bing images&quot; rel=&quot;noopener&quot;&gt;Bing images&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/spaces/aipicasso/emi-latest-demo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/GirlPainting.png&quot; alt=&quot;Noia pintant&quot; width=&quot;150&quot; height=&quot;150&quot; style=&quot;float: right; margin: 5px;&quot; /&gt;AIPicasso&lt;/a&gt; Funciona bé amb descripcions en anglès.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ideogram.ai/&quot;&gt;ideogram.ai&lt;/a&gt; Funciona força bé, a més es gairebé capaç de posar text a dins de les imatges correctament.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Mostra realimentació&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;audio class=&quot;audio-for-speech&quot;&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;div class=&quot;translate-tooltip-mtz translator-hidden&quot;&gt;
+&lt;div class=&quot;header&quot;&gt;
+&lt;div class=&quot;header-controls&quot;&gt;Translator&lt;/div&gt;
+&lt;div class=&quot;header-controls&quot;&gt;&lt;span class=&quot;support&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;header-controls&quot;&gt;&lt;span class=&quot;settings&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;translated-text&quot;&gt;
+&lt;div class=&quot;words&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;sentences&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;translate-button-mtz translator-hidden&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -588,7 +615,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="255"></int>
+                     <int value="259"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -602,7 +629,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="2_127_2.2"></unicode>
+                   <unicode value="2_127_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -613,7 +640,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="GirlPainting.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmppxW2Q8/GirlPainting.png"></string>
+                     <string value="/tmp/tmpycXdlb/GirlPainting.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="cc27f8bfbc31f5354175dc3ddf6d6862"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -642,7 +669,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -805,7 +832,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="253"></int>
+                     <int value="257"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -819,7 +846,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_128_2.3"></unicode>
+                   <unicode value="3_128_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -830,7 +857,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Seleccio_041.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmppxW2Q8/Seleccio_041.png"></string>
+                     <string value="/tmp/tmpycXdlb/Seleccio_041.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="674e34e2b22bc51493c0b2f2856bf009"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -859,7 +886,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
               <reference key="15"></reference>
              </dictionary>
@@ -1112,7 +1139,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="guia-visual-iagen.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmppxW2Q8/guia-visual-iagen.pdf"></string>
+                <string value="/tmp/tmpycXdlb/guia-visual-iagen.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="e7b1ccd67ea95826533344e5a0c6b68f"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1289,7 +1316,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="PROTOCOLO_IA_CENTROSEDUCATIVOS.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmppxW2Q8/PROTOCOLO_IA_CENTROSEDUCATIVOS.pdf"></string>
+                <string value="/tmp/tmpycXdlb/PROTOCOLO_IA_CENTROSEDUCATIVOS.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c5ada6982f6c7d97c008247b722c3bff"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1513,7 +1540,7 @@
 &lt;li&gt;&lt;a href=&quot;https://huggingface.co/spaces/hf-audio/whisper-large-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://huggingface.co/spaces/hf-audio/whisper-large-v3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Auphonic
+&lt;li&gt;Auphonic. Millora de la qualitat i edició.
 &lt;ul&gt;
 &lt;li&gt;És una eina basada en IA que t'ajuda a millorar la qualitat dels continguts d'àudio. El programari utilitza IA per ajustar automàticament els nivells de volum, reduir el soroll de fons i millorar la qualitat general del so dels teus enregistraments d'àudio. Auphonic també ofereix una sèrie d'eines d'edició que us permeten ajustar el contingut d'àudio abans d'exportar-lo.&lt;/li&gt;
 &lt;li&gt;2h d'edició gratuita al mes.&lt;/li&gt;
@@ -2646,7 +2673,7 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.8.1"></string>
+  <string value="2.9"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="674e34e2b22bc51493c0b2f2856bf009"></string>
